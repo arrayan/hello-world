@@ -1,2 +1,2 @@
-# hello-world
+# Study
 Just setting up GitHub 
